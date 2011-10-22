@@ -27,11 +27,11 @@ As those links between wardrobes and meshes are done in TL *.dat* files, in view
   # Now go to folder *...\TorchED\media\models\* and copy file
    * body.png
   # Now you can start TLMeshViewer and from your temp folder open file *vanquisher_buckled.MESH* (you can associate .mesh files with viewer, or you can even drag&drop that file into viewer). You should see something like this:
-http://www.dusho.net/_archiv/tl/meshviewer/wiki1sc1.jpg
+   * http://www.dusho.net/_archiv/tl/meshviewer/wiki1sc1.jpg
   # Select to menu Wardrobe -> Face(none)... and now navigate to your temp folder and select *body.png*. Texture MUST be from same folder where it mesh is located. Your character will get a face
   # Now choose Wardrobe -> Boots(none)... and select *buckled_boots.png*
   # Continue with Wardrobe -> Chest(none)... and select *buckled_chest.png*
   # And finally Gloves(none)... and select *buckled_gloves.png*.
 You now have your full wardrobe on character.
-http://www.dusho.net/_archiv/tl/meshviewer/wiki1sc2.jpg
+    * http://www.dusho.net/_archiv/tl/meshviewer/wiki1sc2.jpg
 Feel free to modify textures in your favorite graphic tool (Gimp, Paint.NET, Photoshop, ...) and use menu Wardrobe -> Reload all to immediately see changes on character 
