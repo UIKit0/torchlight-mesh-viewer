@@ -13,9 +13,9 @@ Some general Torchlight knowledge:
 = How to =
 
 As those links between wardrobes and meshes are done in TL *.dat* files, in viewer we have to manually assign what models and textures to view. Viewer searches for files inside the folder, and those files often contain link to other files, so it's best to copy relevant files into separate folder.
-Say, we want to view buckled wardrobe for Vanquisher.
-1. First, create folder *D:\temp\vanq_buckled\* (any folder will do, here I will use those for simplicity)
-2. Lets copy there all the relevant files. Go to folder *...\TorchED\media\wardrobe\* and to your temp folder copy files
+* Say, we want to view buckled wardrobe for Vanquisher.
+# First, create folder *D:\temp\vanq_buckled\* (any folder will do, here I will use those for simplicity)
+# Lets copy there all the relevant files. Go to folder *...\TorchED\media\wardrobe\* and to your temp folder copy files
 * vanquisher_buckled.material
 * vanquisher_buckled.MESH
 * vanquisher_buckled.SKELETON
@@ -24,6 +24,6 @@ Say, we want to view buckled wardrobe for Vanquisher.
 * buckled_boots.png
 * buckled_chest.png
 * buckled_gloves.png
-3. Now go to folder *...\TorchED\media\models\* and copy file
+# Now go to folder *...\TorchED\media\models\* and copy file
 * body.png
-4. Now you can start TLMeshViewer and from your temp folder open file *vanquisher_buckled.MESH* (you can associate .mesh files with viewer, or you can even drag&drop that file into viewer)
+# Now you can start TLMeshViewer and from your temp folder open file *vanquisher_buckled.MESH* (you can associate .mesh files with viewer, or you can even drag&drop that file into viewer)
