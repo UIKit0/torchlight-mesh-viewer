@@ -1,5 +1,5 @@
 #labels viewing,wardrobe
-#shows how are character models and textures linked together and how to view wardrobe in viewer
+Shows how are character models and textures linked together and how to view wardrobe in viewer
 
 = Introduction =
 
