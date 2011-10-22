@@ -16,8 +16,8 @@ As those links between wardrobes and meshes are done in TL *.dat* files, in view
  * Say, we want to view buckled wardrobe for Vanquisher.
   # First, create folder *D:\temp\vanq_buckled\* (any folder will do, here I will use those for simplicity)
   # Lets copy there all the relevant files. Go to folder *...\TorchED\media\wardrobe\* and to your temp folder copy files
- * vanquisher_buckled.material
- * vanquisher_buckled.MESH
+   * vanquisher_buckled.material
+   * vanquisher_buckled.MESH
  * vanquisher_buckled.SKELETON
  * vanquisher_buckled_helm.dds
  * vanquisher_buckled_shoulder.png
