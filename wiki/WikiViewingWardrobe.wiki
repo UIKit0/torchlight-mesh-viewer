@@ -1,0 +1,17 @@
+#labels viewing,wardrobe
+#shows how are character models and textures linked together and how to view wardrobe in viewer
+
+= Introduction =
+
+With version 0.8.0.0 there is now possibility to view character's warbrobe. I assume you have TorchED installed, as it contains all the assets of TL in unpacked form.
+Some general Torchlight knowledge:
+ * all wardrobes (meshes, materials and textures) are stored in *...\TorchED\media\wardrobe\* folder
+ * animations, base models and base texture is stored in *...\TorchED\media\models\* in folders *Vanquisher*, *warrior* (Destroyer) and *Alchemist*
+ * items you can wear in TL are defined by `.dat` files (located in *...\TorchED\media\units\items\*
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
