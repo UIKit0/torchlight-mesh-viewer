@@ -16,16 +16,16 @@ As those links between wardrobes and meshes are done in TL *.dat* files, in view
  * Say, we want to view buckled wardrobe for Vanquisher.
   # First, create folder *D:\temp\vanq_buckled\* (any folder will do, here I will use those for simplicity)
   # Lets copy there all the relevant files. Go to folder *...\TorchED\media\wardrobe\* and to your temp folder copy files
-   * vanquisher_buckled.material
-   * vanquisher_buckled.MESH
-   * vanquisher_buckled.SKELETON
-   * vanquisher_buckled_helm.dds
-   * vanquisher_buckled_shoulder.png
-   * buckled_boots.png
-   * buckled_chest.png
-   * buckled_gloves.png
+   * *vanquisher_buckled.material*
+   * *vanquisher_buckled.MESH*
+   * *vanquisher_buckled.SKELETON*
+   * *vanquisher_buckled_helm.dds*
+   * *vanquisher_buckled_shoulder.png*
+   * *buckled_boots.png*
+   * *buckled_chest.png*
+   * *buckled_gloves.png*
   # Now go to folder *...\TorchED\media\models\* and copy file
-   * body.png
+   * *body.png*
   # Now you can start TLMeshViewer and from your temp folder open file *vanquisher_buckled.MESH* (you can associate .mesh files with viewer, or you can even drag&drop that file into viewer). You should see something like this:
    * http://www.dusho.net/_archiv/tl/meshviewer/wiki1sc1.jpg
   # Select to menu Wardrobe -> Face(none)... and now navigate to your temp folder and select *body.png*. Texture MUST be from same folder where it mesh is located. Your character will get a face
